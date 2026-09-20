@@ -4,5 +4,3 @@
 **/xcuserdata/
 *.xcuserstate
 /sleep.json
-/sleepd.log
-/sleepd.error.log

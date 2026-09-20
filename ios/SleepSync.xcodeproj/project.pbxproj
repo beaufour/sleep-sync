@@ -17,7 +17,7 @@
 		200000000000000000000001 /* SleepSyncApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SleepSyncApp.swift; sourceTree = "<group>"; };
 		200000000000000000000002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		200000000000000000000003 /* SleepExporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SleepExporter.swift; sourceTree = "<group>"; };
-		200000000000000000000004 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Models.swift; path = ../Sources/sleepd/Models.swift; sourceTree = SOURCE_ROOT; };
+		200000000000000000000004 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Models.swift; path = SleepSync/Models.swift; sourceTree = SOURCE_ROOT; };
 		200000000000000000000005 /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = System/Library/Frameworks/HealthKit.framework; sourceTree = SDKROOT; };
 		200000000000000000000006 /* SleepSync.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SleepSync.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		200000000000000000000007 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
